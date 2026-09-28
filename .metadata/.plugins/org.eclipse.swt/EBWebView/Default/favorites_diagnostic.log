@@ -152,3 +152,47 @@
 2026-05-05 12:35:38.910: [INFO] OnDoneLoading sync enabled: 0
 2026-05-05 17:12:05.802: [INFO] OnDoneLoading sync enabled: 0
 2026-05-05 17:58:47.053: [INFO] OnDoneLoading sync enabled: 0
+2026-05-12 08:16:51.507: [INFO] OnDoneLoading sync enabled: 0
+2026-05-12 08:17:32.032: [INFO] OnDoneLoading sync enabled: 0
+2026-05-12 08:18:06.530: [INFO] OnDoneLoading sync enabled: 0
+2026-05-12 10:40:11.640: [INFO] OnDoneLoading sync enabled: 0
+2026-06-02 06:18:17.186: [INFO] OnDoneLoading sync enabled: 0
+2026-06-02 08:38:06.848: [INFO] OnDoneLoading sync enabled: 0
+2026-06-02 09:49:34.967: [INFO] OnDoneLoading sync enabled: 0
+2026-06-02 09:50:54.173: [INFO] OnDoneLoading sync enabled: 0
+2026-06-02 09:51:14.135: [INFO] OnDoneLoading sync enabled: 0
+2026-06-02 09:53:25.109: [INFO] OnDoneLoading sync enabled: 0
+2026-06-09 02:36:25.799: [INFO] OnDoneLoading sync enabled: 0
+2026-06-09 09:13:05.752: [INFO] OnDoneLoading sync enabled: 0
+2026-06-10 07:48:59.160: [INFO] OnDoneLoading sync enabled: 0
+2026-06-17 09:03:13.021: [INFO] OnDoneLoading sync enabled: 0
+2026-06-18 08:53:37.073: [INFO] OnDoneLoading sync enabled: 0
+2026-06-22 09:26:47.054: [INFO] OnDoneLoading sync enabled: 0
+2026-06-22 09:27:18.785: [INFO] OnDoneLoading sync enabled: 0
+2026-06-22 10:56:35.579: [INFO] OnDoneLoading sync enabled: 0
+2026-06-22 11:16:10.264: [INFO] OnDoneLoading sync enabled: 0
+2026-06-22 11:20:01.245: [INFO] OnDoneLoading sync enabled: 0
+2026-06-22 11:20:30.463: [INFO] OnDoneLoading sync enabled: 0
+2026-06-22 11:22:53.116: [INFO] OnDoneLoading sync enabled: 0
+2026-06-22 11:23:52.427: [INFO] OnDoneLoading sync enabled: 0
+2026-06-22 11:24:20.841: [INFO] OnDoneLoading sync enabled: 0
+2026-08-11 09:27:49.557: [INFO] CurrentProfilePath: D:\SpringBootApp\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-11 09:27:49.557: [INFO] Profiles total count: 1
+2026-08-11 09:27:49.559: [INFO] Profile: name=Profile 1 path=D:\SpringBootApp\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-04-22T05:17:56.216Z
+2026-08-11 09:27:49.559: [INFO] LastUsedProfileDir: D:\SpringBootApp\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-11 09:27:49.559: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\SpringBootApp\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-04-22T05:17:56.216Z
+2026-08-11 09:27:49.559: [INFO] OnDoneLoading sync enabled: 0
+2026-08-11 09:27:49.559: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-11 09:27:49.559: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-11 09:27:49.559: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-11 11:09:49.840: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-22 07:18:53.556: [INFO] CurrentProfilePath: D:\SpringBootApp\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-22 07:18:53.556: [INFO] Profiles total count: 1
+2026-08-22 07:18:53.556: [INFO] Profile: name=Profile 1 path=D:\SpringBootApp\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-04-22T05:17:56.216Z
+2026-08-22 07:18:53.556: [INFO] LastUsedProfileDir: D:\SpringBootApp\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-22 07:18:53.556: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\SpringBootApp\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-04-22T05:17:56.216Z
+2026-08-22 07:18:53.556: [INFO] OnDoneLoading sync enabled: 0
+2026-08-22 07:18:53.556: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-22 07:18:53.556: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-22 07:18:53.556: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-22 07:54:01.635: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1

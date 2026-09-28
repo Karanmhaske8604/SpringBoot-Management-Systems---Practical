@@ -1,9 +1,0 @@
-package com.idempotency.web.Repository;
-
-import org.springframework.data.jpa.repository.JpaRepository;
-
-import com.idempotency.web.Entity.Car;
-
-public interface CarRepo extends JpaRepository<Car, Integer>{
-
-}

@@ -1,5 +1,0 @@
-package com.idempotency.web.Repository;
-
-public interface KeysRepo {
-
-}
